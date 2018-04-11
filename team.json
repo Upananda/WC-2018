@@ -3,43 +3,49 @@
       "id": 1,
       "name": "Russia",
       "iso2": "ru",
-      "flagUrl":"https://en.wikipedia.org/wiki/Flag_of_Russia#/media/File:Flag_of_Russia.svg"
+      "flagUrl":"https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg"
     },
     {
       "id": 2,
       "name": "Saudi Arabia",
       "iso2": "sa",
-      "flagUrl":"https://en.wikipedia.org/wiki/Flag_of_Saudi_Arabia#/media/File:Flag_of_Saudi_Arabia.svg"
+      "flagUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg"
     },
     {
       "id": 3,
       "name": "Egypt",
-      "iso2": "eg"
+      "iso2": "eg",
+      "flagUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg"
     },
     {
       "id": 4,
       "name": "Uruguay",
-      "iso2": "uy"
+      "iso2": "uy",
+      "flagUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg"
     },
     {
       "id": 5,
       "name": "Portugal",
-      "iso2": "pt"
+      "iso2": "pt",
+      "flagUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg"
     },
     {
       "id": 6,
       "name": "Spain",
-      "iso2": "es"
+      "iso2": "es",
+      "flagUrl":"https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg"
     },
     {
       "id": 7,
       "name": "Morocco",
-      "iso2": "ma"
+      "iso2": "ma",
+       "flagUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg"
     },
     {
       "id": 8,
       "name": "Iran",
-      "iso2": "ir"
+      "iso2": "ir",
+      "flagUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg"
     },
     {
       "id": 9,
