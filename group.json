@@ -119,6 +119,36 @@
               "flagUrl":"https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg"
             }
               ]
+        },
+        {
+          "id": 5,
+          "name": "Group E",
+          "teams":[
+            {
+              "id": 17,
+              "name": "Brazil",
+              "iso2": "br",
+              "flagUrl":"https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg"
+            },
+            {
+              "id": 18,
+              "name": "Switzerland",
+              "iso2": "ch",
+              "flagUrl":"https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_Switzerland_%28Pantone%29.svg"
+            },
+            {
+              "id": 19,
+              "name": "Costa Rica",
+              "iso2": "cr",
+              "flagUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Costa_Rica_%28state%29.svg"
+            },
+            {
+              "id": 20,
+              "name": "Serbia",
+              "iso2": "rs",
+              "flagUrl":"https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg"
+            }
+              ]
         }
         ]
   
