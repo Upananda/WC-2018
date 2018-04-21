@@ -149,6 +149,36 @@
               "flagUrl":"https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg"
             }
               ]
+        },
+        {
+          "id": 6,
+          "name": "Group F",
+          "teams":[
+            {
+              "id": 21,
+              "name": "Germany",
+              "iso2": "de",
+              "flagUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_Germany_%28state%29.svg"
+            },
+            {
+              "id": 22,
+              "name": "Mexico",
+              "iso2": "mx",
+              "flagUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg"
+            },
+            {
+              "id": 23,
+              "name": "Sweden",
+              "iso2": "se",
+              "flagUrl":"https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg"
+            },
+            {
+              "id": 24,
+              "name": "South Korea",
+              "iso2": "kr",
+              "flagUrl":"https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg"
+            }
+              ]
         }
         ]
   
