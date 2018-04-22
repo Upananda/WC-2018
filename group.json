@@ -29,6 +29,36 @@
                 "flagUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg"
               }
               ]
+        },
+          {
+          "id": 2,
+          "name": "Group B",
+          "teams":[
+             {
+                "id": 5,
+                "name": "Portugal",
+                "iso2": "pt",
+                "flagUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg"
+              },
+            {
+              "id": 6,
+              "name": "Spain",
+              "iso2": "es",
+              "flagUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg"
+            },
+            {
+              "id": 7,
+              "name": "Morocco",
+              "iso2": "ma",
+               "flagUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg"
+            },
+            {
+              "id": 8,
+              "name": "Iran",
+              "iso2": "ir",
+              "flagUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg"
+            }
+              ]
         }
         
       ]
