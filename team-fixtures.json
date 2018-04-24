@@ -1,5 +1,152 @@
 {
-  "teams-"
+  "fixtures" :
+     [
+       {
+            "id": 1,
+            "competitionId": 1,
+            "type": "group",
+            "date": "2018-06-14T18:00:00+03:00",
+            "matchday": 1,
+            "homeTeamName": "Russia",
+            "homeTeamId": 1,
+            "awayTeamName": "Saudi Arabia",
+            "awayTeamId": 2,
+            "stadiumId":1,
+            "finished": false,
+            "result":
+            {
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null
+            }
+        },
+       {
+            "id": 2,
+            "competitionId": 1,
+            "type": "group",
+            "date": "2018-06-15T17:00:00+05:00",
+            "matchday": 1,
+            "homeTeamName": "Egypt",
+            "homeTeamId": 3,
+            "awayTeamName": "Uruguay",
+            "awayTeamId": 4,
+            "stadiumId":12,
+            "finished": false,
+            "result":
+            {
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null
+            }
+        },
+       {
+            "id": 3,
+            "competitionId": 1,
+            "type": "group",
+            "date": "2018-06-15T21:00:00+03:00",
+            "matchday": 1,
+            "homeTeamName": "Portugal",
+            "homeTeamId": 5,
+            "awayTeamName": "Spain",
+            "awayTeamId": 6,
+            "stadiumId":11,
+            "finished": false,
+            "result":
+            {
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null
+            }
+        },
+       {
+            "id": 4,
+            "competitionId": 1,
+            "type": "group",
+            "date": "2018-06-15T18:00:00+03:00",
+            "matchday": 1,
+            "homeTeamName": "Morocco",
+            "homeTeamId": 7,
+            "awayTeamName": "Iran",
+            "awayTeamId": 8,
+            "stadiumId":3,
+            "finished": false,
+            "result":
+            {
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null
+            }
+        },
+       
+        {
+            "id": 5,
+            "competitionId": 1,
+            "type": "group",
+            "date": "2018-06-16T13:00:00+03:00",
+            "matchday": 1,
+            "homeTeamName": "France",
+            "homeTeamId": 9,
+            "awayTeamName": "Australia",
+            "awayTeamId": 10,
+            "stadiumId":5,
+            "finished": false,
+            "result":
+            {
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null
+            }
+        },
+       {
+            "id": 6,
+            "competitionId": 1,
+            "type": "group",
+            "date": "2018-06-16T19:00:00+03:00",
+            "matchday": 1,
+            "homeTeamName": "Peru",
+            "homeTeamId": 11,
+            "awayTeamName": "Denmark",
+            "awayTeamId": 12,
+            "stadiumId":5,
+            "finished": false,
+            "result":
+            {
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null
+            }
+        },
+       {
+            "id": 7,
+            "competitionId": 1,
+            "type": "group",
+            "date": "2018-06-16T16:00:00+03:00",
+            "matchday": 1,
+            "homeTeamName": "Argentina",
+            "homeTeamId": 13,
+            "awayTeamName": "Iceland",
+            "awayTeamId": 14,
+            "stadiumId":2,
+            "finished": false,
+            "result":
+            {
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null
+            }
+        },
+       {
+            "id": 8,
+            "competitionId": 1,
+            "type": "group",
+            "date": "2018-06-16T21:00:00+02:00",
+            "matchday": 1,
+            "homeTeamName": "Croatia",
+            "homeTeamId": 15,
+            "awayTeamName": "Nigeria",
+            "awayTeamId": 16,
+            "stadiumId":4,
+            "finished": false,
+            "result":
+            {
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null
+            }
+        }
+      ]
 
 
 }
