@@ -1,4 +1,6 @@
 {
+  "currentMatchday": 1,
+  "numberOfMatchdays": 8
   "fixtures" :
      [
        {
