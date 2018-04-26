@@ -183,6 +183,42 @@
                 "goalsHomeTeam": null,
                 "goalsAwayTeam": null
             }
+        },
+       {
+            "id": 11,
+            "competitionId": 1,
+            "type": "group",
+            "date": "2018-06-17T18:00:00+03:00",
+            "matchday": 1,
+            "homeTeamName": "Germany",
+            "homeTeamId": 21,
+            "awayTeamName": "Mexico",
+            "awayTeamId": 22,
+            "stadiumId":1,
+            "finished": false,
+            "result":
+            {
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null
+            }
+        },
+       {
+            "id": 12,
+            "competitionId": 1,
+            "type": "group",
+            "date": "2018-06-18T15:00:00+03:00",
+            "matchday": 1,
+            "homeTeamName": "Sweden",
+            "homeTeamId": 23,
+            "awayTeamName": "South Korea",
+            "awayTeamId": 24,
+            "stadiumId":6,
+            "finished": false,
+            "result":
+            {
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null
+            }
         }
       ]
 
