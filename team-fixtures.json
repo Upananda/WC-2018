@@ -219,6 +219,78 @@
                 "goalsHomeTeam": null,
                 "goalsAwayTeam": null
             }
+        },
+       {
+            "id": 13,
+            "competitionId": 1,
+            "type": "group",
+            "date": "2018-06-18T18:00:00+03:00",
+            "matchday": 1,
+            "homeTeamName": "Belgium",
+            "homeTeamId": 25,
+            "awayTeamName": "Panama",
+            "awayTeamId": 26,
+            "stadiumId":11,
+            "finished": false,
+            "result":
+            {
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null
+            }
+        },
+       {
+            "id": 14,
+            "competitionId": 1,
+            "type": "group",
+            "date": "2018-06-18T21:00:00+03:00",
+            "matchday": 1,
+            "homeTeamName": "Tunisia",
+            "homeTeamId": 27,
+            "awayTeamName": "England",
+            "awayTeamId": 28,
+            "stadiumId":8,
+            "finished": false,
+            "result":
+            {
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null
+            }
+        },
+       {
+            "id": 15,
+            "competitionId": 1,
+            "type": "group",
+            "date": "2018-06-19T18:00:00+03:00",
+            "matchday": 1,
+            "homeTeamName": "Poland",
+            "homeTeamId": 29,
+            "awayTeamName": "Senegal",
+            "awayTeamId": 30,
+            "stadiumId":2,
+            "finished": false,
+            "result":
+            {
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null
+            }
+        },
+       {
+            "id": 16,
+            "competitionId": 1,
+            "type": "group",
+            "date": "2018-06-19T15:00:00+03:00",
+            "matchday": 1,
+            "homeTeamName": "Colombia",
+            "homeTeamId": 31,
+            "awayTeamName": "Japan",
+            "awayTeamId": 32,
+            "stadiumId":9,
+            "finished": false,
+            "result":
+            {
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null
+            }
         }
       ]
 
